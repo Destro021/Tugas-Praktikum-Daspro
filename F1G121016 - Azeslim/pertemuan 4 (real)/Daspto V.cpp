@@ -71,7 +71,7 @@ int main() {
 			cout <<"Universitas Muhammadiyah"<< endl;
 			cout <<"Total pembayaran = 10000" <<endl;
 			cout <<"Mohon tunggu Car Deliverinya -_-" <<endl;
-		Ganti_tujua :
+		 Ganti_tujua :
 			cout<< " Apakah anda ingin mengganti tujuan yang telah dipilih ?? (y/n)" << endl ;
 			cout<< "Masukan pilihan anda : " << endl ;
 			cin>> pilihan;
